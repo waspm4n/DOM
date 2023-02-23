@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #000;
+    color: darkgreen ;
+    font-style:italic, bold 5px;
+    font-size: 10vh;
+}
+#board{
+    margin-top: 20vh;
+}
