@@ -6,6 +6,7 @@
 body{
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
+    background-image: url(/Snake/wp2409705-snake-game-wallpapers.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
