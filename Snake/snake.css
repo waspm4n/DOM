@@ -10,7 +10,8 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
-div{
+
+#headd{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -19,7 +20,22 @@ div{
     color: darkgreen ;
     font-style:italic, bold 5px;
     font-size: 10vh;
+    font-weight: bold;
 }
+
 #board{
-    margin-top: 20vh;
+    margin-top: 10vh;
+    margin-bottom: 5vh;
+}
+#score{
+    display: flex;
+    text-align: end;
+    justify-content: end;
+    align-items: end;
+    padding: 0;
+    margin-top: 5vh;
+    margin-right: 5vh;
+    font-size: 5vh;
+    color:#000;
+    font-weight: bold;
 }
